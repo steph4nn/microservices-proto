@@ -2,7 +2,7 @@
 GITHUB_USERNAME=ruandg
 GITHUB_EMAIL=ruan.gomes@ifpb.edu.br
 
-SERVICE_NAME=order
+SERVICE_NAME=payment
 RELEASE_VERSION=v1.2.3
 
 go install google.golang.org/protobuf/cmd/protoc-gen-go@latest
